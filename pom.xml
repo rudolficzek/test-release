@@ -1,9 +1,9 @@
 <project>
    <modelVersion>4.0.0</modelVersion>
-   <groupId>root</groupId>
+   <groupId>com.test</groupId>
    <version>1.0</version>
-   <artifactId>project</artifactId>
-   <packaging>pom</packaging>
+   <artifactId>test-releaset</artifactId>
+   <packaging>jar</packaging>
 
 
     <distributionManagement>
